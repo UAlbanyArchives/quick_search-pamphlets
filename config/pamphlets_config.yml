@@ -1,0 +1,3 @@
+defaults: &defaults
+  base_url: "https://archives.albany.edu/books"
+  loaded_link: "https://archives.albany.edu/books"

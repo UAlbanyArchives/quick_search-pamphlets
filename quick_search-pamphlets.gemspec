@@ -7,11 +7,11 @@ require "quick_search/pamphlets/version"
 Gem::Specification.new do |spec|
   spec.name        = "quick_search-pamphlets"
   spec.version     = QuickSearch::Pamphlets::VERSION
-  spec.authors     = ["Greg Wiedeman"]
+  spec.authors     = ["Gregory Wiedeman"]
   spec.email       = ["gregory.wiedeman1@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of QuickSearch::Pamphlets."
-  spec.description = "TODO: Description of QuickSearch::Pamphlets."
+  spec.homepage    = "https://archives.albany.edu"
+  spec.summary     = "Searcher for the Politcal Pamphlets Collections"
+  spec.description = "Plugin for NCSU QuickSearch bento-style search results app that searches a blacklight app that discovers materals from the poltical pamphlets collections"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

@@ -1,0 +1,11 @@
+en:
+  mathes_search:
+    display_name: "Politcal Pamphlets"
+    short_display_name: "Politcal Pamphlets"
+    search_form_placeholder: "Search Politcal Pamphlets Collection"
+    module_callout: "Search Politcal Pamphlets Collection"
+    error_service_message: "searching Politcal Pamphlets Collection"
+    no_results_service_message: "a different search"
+    no_results_link: "https://archives.albany.edu/books?f[collecting_area_ssim][]=Politcal+Pamphlets&search_field=all_fields"
+    loaded_link: "https://archives.albany.edu/books?q="
+
