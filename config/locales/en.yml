@@ -1,7 +1,7 @@
 en:
   pamphlets_search:
-    display_name: "Politcal Pamphlets"
-    short_display_name: "Politcal Pamphlets"
+    display_name: "Political Pamphlets"
+    short_display_name: "Political Pamphlets"
     search_form_placeholder: "Search Politcal Pamphlets Collection"
     module_callout: "Search Politcal Pamphlets Collection"
     error_service_message: "searching Politcal Pamphlets Collection"
